@@ -1,0 +1,9 @@
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\bin\Debug\LundbergsGlasses.exe.config
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\bin\Debug\LundbergsGlasses.exe
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\bin\Debug\LundbergsGlasses.pdb
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LundbergsGlasses.csprojResolveAssemblyReference.cache
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LunbergsGlasses.Form1.resources
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LundbergsGlasses.Properties.Resources.resources
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LundbergsGlasses.csproj.GenerateResource.Cache
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LundbergsGlasses.exe
+c:\Users\Gergely\Documents\Visual Studio 2013\Projects\LundbergsGlasses\LundbergsGlasses\obj\Debug\LundbergsGlasses.pdb
